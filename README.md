@@ -10,7 +10,7 @@ Olá! Sou Gustavo, um entusiasta de tecnologia apaixonado por programação e de
 ![Principais Linguagens de Gustavo394](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo394&theme=algolia&layout=compact)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)](https://www.java.com/pt-BR/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](null)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
