@@ -24,4 +24,4 @@ Sou autodidata, em constante evolução para me tornar um desenvolvedor habilido
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.silva394@gmail.com?subject=Assunto%20do%20E-mail)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_h8_/)
 
-![snake gif](https://github.com/Gustavo394/Gustavo394/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/gustavo394/gustavo394/blob/output/github-contribution-grid-snake.svg?color=green)
