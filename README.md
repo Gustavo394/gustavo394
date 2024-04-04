@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Gustavo, estudante de banco de dados na Fatec de SJC.
+Olá! Meu nome é Gustavo, estudante de banco de dados na Fatec de SJC.<br>
 Sou autodidata, em constante evolução para me tornar um desenvolvedor habilidoso.
 
 ## Estatísticas do GitHub
